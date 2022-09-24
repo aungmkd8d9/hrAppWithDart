@@ -9,4 +9,4 @@ Hello everyone,
 
 
 
-This project may cover some OOP concept but I think it may not close compared to the real-world project. I would be very pleased if you guys can recommended me something to get better on this app.
+This project may cover some OOP concept but I think it may not close compared to the real-world project. 
